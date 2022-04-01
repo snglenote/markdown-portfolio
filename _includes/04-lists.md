@@ -4,6 +4,6 @@ Favourite things 🖤
     * osu!
     * Brawlhalla
 * Coding
-* Dortitos
+* Doritos
 * Music
-* The colour cyan 
+* Cyan
