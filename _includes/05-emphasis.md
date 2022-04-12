@@ -5,6 +5,7 @@
 *Java*,
 *Python*,
 *C++*,
-*C#* and 
+*C#* 
+*Ruby* and
 *Dart*
 **_just to name a few_** ✨
